@@ -1,0 +1,33 @@
+.list{
+
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px dotted rgb(244, 197, 11);
+  
+
+}
+
+.shop {
+
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    text-align: center;
+    border: 1px dotted rgb(22, 154, 243);
+    flex-basis: 16%;
+    
+}
+
+.pageHeader {
+
+    padding: 1em;
+    margin: 00.5em;
+    text-align: center;
+    border: 1px dotted rgb(248, 4, 248);
+   
+}
